@@ -5,8 +5,8 @@
 To clone this repository and get started:
 
 ```bash
-git clone https://github.com/Ryan-Hartnett/Wherobots.git
-cd Wherobots
+git clone https://github.com/Ryan-Hartnett/modern-geospatial-data-engineering.git
+cd modern-geospatial-data-engineering
 ```
 
 ## About
